@@ -53,8 +53,8 @@ public class MainActivity extends AppCompatActivity {
         int i=1;
         int ii=2;
         String test;
-        int iii=1+1;
-        int iiii=2+2;
+        int iii=1-1;
+        int iiii=2-2;
         String testi;
     }
 
